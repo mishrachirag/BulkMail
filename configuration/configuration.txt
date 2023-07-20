@@ -1,0 +1,8 @@
+[Setting]
+internet = Online
+noofdomains = 0
+waitingsec = 10
+messageno = 1
+mailpath = Empty
+type = Empty
+
